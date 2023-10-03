@@ -1,0 +1,15 @@
+Board\DeleteBoard.class
+apiTest\SetVariable.class
+Card\CreateCard.class
+Board\CreateListonBoard.class
+Board\BoardUpdate.class
+Board\GetBoard.class
+NewTest.class
+apiTest\API.class
+Card\GetCardNegativeTest.class
+Board\BoardGenerator.class
+Card\GetCard.class
+Card\UpdateCard.class
+apiTest\Base.class
+Board\GetBoardNegativeTest.class
+Card\DeleteCard.class

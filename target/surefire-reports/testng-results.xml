@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-03T12:02:38Z" name="Suite" finished-at="2023-10-03T12:02:57Z" duration-ms="18539">
+    <groups>
+    </groups>
+    <test started-at="2023-10-03T12:02:38Z" name="Test" finished-at="2023-10-03T12:02:57Z" duration-ms="18539">
+      <class name="Card.GetCardNegativeTest">
+        <test-method signature="Get()[pri:0, instance:Card.GetCardNegativeTest@332729ad]" started-at="2023-10-03T12:02:51Z" name="Get" finished-at="2023-10-03T12:02:52Z" duration-ms="852" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Get -->
+      </class> <!-- Card.GetCardNegativeTest -->
+      <class name="Card.UpdateCard">
+        <test-method signature="Put()[pri:0, instance:Card.UpdateCard@75d2da2d]" started-at="2023-10-03T12:02:52Z" name="Put" finished-at="2023-10-03T12:02:53Z" duration-ms="937" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Put -->
+      </class> <!-- Card.UpdateCard -->
+      <class name="Board.BoardUpdate">
+        <test-method signature="Put()[pri:0, instance:Board.BoardUpdate@18e36d14]" started-at="2023-10-03T12:02:47Z" name="Put" finished-at="2023-10-03T12:02:48Z" duration-ms="1052" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Put -->
+      </class> <!-- Board.BoardUpdate -->
+      <class name="Board.CreateListonBoard">
+        <test-method signature="Post()[pri:0, instance:Board.CreateListonBoard@5082d622]" started-at="2023-10-03T12:02:48Z" name="Post" finished-at="2023-10-03T12:02:49Z" duration-ms="1009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Post -->
+      </class> <!-- Board.CreateListonBoard -->
+      <class name="Card.CreateCard">
+        <test-method signature="post()[pri:0, instance:Card.CreateCard@13d4992d]" started-at="2023-10-03T12:02:49Z" name="post" finished-at="2023-10-03T12:02:50Z" duration-ms="1159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post -->
+      </class> <!-- Card.CreateCard -->
+      <class name="Board.GetBoard">
+        <test-method signature="get()[pri:0, instance:Board.GetBoard@5a5338df]" started-at="2023-10-03T12:02:45Z" name="get" finished-at="2023-10-03T12:02:46Z" duration-ms="935" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get -->
+      </class> <!-- Board.GetBoard -->
+      <class name="Card.GetCard">
+        <test-method signature="Get()[pri:0, instance:Card.GetCard@302f7971]" started-at="2023-10-03T12:02:50Z" name="Get" finished-at="2023-10-03T12:02:51Z" duration-ms="907" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Get -->
+      </class> <!-- Card.GetCard -->
+      <class name="Card.DeleteCard">
+        <test-method signature="del()[pri:0, instance:Card.DeleteCard@4278284b]" started-at="2023-10-03T12:02:53Z" name="del" finished-at="2023-10-03T12:02:55Z" duration-ms="1842" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- del -->
+      </class> <!-- Card.DeleteCard -->
+      <class name="Board.BoardGenerator">
+        <test-method signature="Post()[pri:0, instance:Board.BoardGenerator@6ee4d9ab]" started-at="2023-10-03T12:02:38Z" name="Post" finished-at="2023-10-03T12:02:45Z" duration-ms="6968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Post -->
+      </class> <!-- Board.BoardGenerator -->
+      <class name="Board.GetBoardNegativeTest">
+        <test-method signature="get()[pri:0, instance:Board.GetBoardNegativeTest@418c5a9c]" started-at="2023-10-03T12:02:46Z" name="get" finished-at="2023-10-03T12:02:47Z" duration-ms="883" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get -->
+      </class> <!-- Board.GetBoardNegativeTest -->
+      <class name="Board.DeleteBoard">
+        <test-method signature="del()[pri:0, instance:Board.DeleteBoard@9573584]" started-at="2023-10-03T12:02:55Z" name="del" finished-at="2023-10-03T12:02:57Z" duration-ms="1927" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- del -->
+      </class> <!-- Board.DeleteBoard -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
